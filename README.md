@@ -13,11 +13,11 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm Preetham Prasad, currently pursuing my Bachelor's in **CSE with specialization in Cybersecurity and Digital Forensics**
-- 💻 I'm passionate about both **development** and **cybersecurity**
-- 🔨 I build projects using **React, Node.js, MySQL, and security tools**
+- 💻 I'm passionate about both **Development** and **Cybersecurity**
+- 🔨 I build projects using **React, Node.js, MySQL, and Security tools**
 - 📚 Currently learning **Data Structures & Algorithms (DSA) in C++**
 - 🌐 Deployed cloud-based apps on **AWS** with **Amazon RDS**
-- 🔍 Exploring **vulnerability assessment**, **development**, and scalable **full-stack systems**
+- 🔍 Exploring **Vulnerability Assessment**, **Development**, and scalable **Full-Stack Systems**
 
 ---
 
@@ -76,10 +76,10 @@
 
 ### 🌱 What I'm Currently Working On
 
-- 💡 Building secure and scalable **MERN stack** apps  
-- 🛡️ Enhancing skills in **development**, **ethical hacking**, and **vulnerability assessment**  
+- 💡 Building secure and scalable **MERN Stack** apps  
+- 🛡️ Enhancing skills in **Development**, **Ethical Hacking**, and **Vulnerability Assessment**  
 - 📈 Practicing **DSA in C++** for competitive programming and problem-solving  
-- 🎯 Strengthening **backend development** using **JWT**, **API security**, and **Node.js**
+- 🎯 Strengthening **Backend development** using **JWT**, **API security**, and **Node.js**
 
 ---
 
