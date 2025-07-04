@@ -1,4 +1,4 @@
-n<h1 align="center">Hey there! 👋 I'm Preetham Prasad</h1>
+<h1 align="center">Hey there! 👋 I'm Preetham Prasad</h1>
 <h3 align="center">🚀 Passionate Developer | 🌐 MERN Stack Enthusiast | 🔐 Aspiring Cybersecurity Analyst</h3>
 
 ---
@@ -26,6 +26,7 @@ n<h1 align="center">Hey there! 👋 I'm Preetham Prasad</h1>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,html,css,js,java,python,mysql,mongodb,git,github,vscode,aws" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
