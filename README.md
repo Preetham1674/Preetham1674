@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Preetham Prasad</h1>
+n<h1 align="center">Hey there! 👋 I'm Preetham Prasad</h1>
 <h3 align="center">🚀 Passionate Developer | 🌐 MERN Stack Enthusiast | 🔐 Aspiring Cybersecurity Analyst</h3>
 
 ---
@@ -23,42 +23,16 @@
 
 ### 🚀 My Tech Stack
 
-<p align="center">
-
-  <!-- Languages -->
-  <strong>Languages</strong><br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <!-- Frontend -->
-  <strong>Frontend</strong><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br>
-  <!-- Backend & DB -->
-  <strong>Backend & DB</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <!-- Tools & Platforms -->
-  <strong>Tools & Platforms</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,html,css,js,java,python,mysql,mongodb,git,github,vscode,aws" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Preetham1674&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preetham1674&theme=radical" alt="streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preetham1674&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
